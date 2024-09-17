@@ -1,0 +1,20 @@
+.containerCard{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    text-align: center;
+    margin:50px;
+}
+.cards{
+    padding-top:40px;
+}
+
+.categories{
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.categories button {
+    margin-left: 20px;
+}
